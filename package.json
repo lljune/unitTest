@@ -1,0 +1,16 @@
+{
+  "name": "jest_init",
+  "version": "1.0.0",
+  "description": "jest_init",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watchAll",
+    "coverage": "jest --coverage"
+  },
+  "author": "lljune",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
